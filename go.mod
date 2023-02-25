@@ -10,7 +10,6 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/viper v1.4.0
-	github.com/theaaf/todos v0.0.0-20190402231846-ad63ef47a387
 	golang.org/x/crypto v0.0.0-20191002192127-34f69633bfdc
-	golang.org/x/sys v0.0.0-20191008105621-543471e840be
+	golang.org/x/sys v0.1.0 // indirect
 )
